@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/SironXRT/testwebar/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[THIS WAY SIR](https://github.com/SironXRT/testwebar/edit/main/index.html)
+[THIS WAY SIR](https://github.com/SironXRT/testwebar/edit/main/TestBuild/index.html)
 
 ### Markdown
 
